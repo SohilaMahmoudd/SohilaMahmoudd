@@ -13,18 +13,21 @@
 
 ### 👋 About Me
 
-I am a Power BI student at the Information Technology Institute (ITI), currently building a strong foundation in data analysis, visualizing, and modeling data using many tools and dealing with different types of databases.
+I am a Data Analyst with a strong foundation in data analysis, visualizing, and modeling data using many tools. helping businesses understand their performance, uncover opportunities, and make confident decisions through interactive Power BI dashboards.
 
-I am actively learning and practicing:
-- Visualizing and modeling data using Excel
-- Database using (SQL, NoSQL) and modeling it
-- Data warehouse, Data Mining
+Instead of dealing with complex data, you’ll get:
+- Clear visibility into your KPIs and performance
+- Insights that support better strategic and operational decisions
+- A deeper understanding of your customers and business trends
 
-My focus is on developing the technical skills required for a Data Analysis role
+Having experience in:
+- Designing interactive and user-friendly dashboards
+- Data cleaning and transformation
+- Building efficient data models
+- Writing DAX formulas to extract accurate KPIs
+- Analyzing data and generating actionable insights
 
-I am passionate about continuous learning, hands-on labs, and preparing myself for real-world Data environments. My goal is to start my career in Power BI and grow into a Data Analyst.
-
-
+My goal is to turn your complex data into clear, impactful dashboards that help you grow your business.
 ---
 
 ### 🔗 Contact Me
