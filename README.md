@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <strong>Software Developer</strong> | <strong>Power BI Developer</strong> | <strong>ITI Trainee</strong>
+  <strong>Data Analyst</strong> | <strong>Power BI Developer</strong>
 </p>
 
 
@@ -28,6 +28,7 @@ Having experience in:
 - Analyzing data and generating actionable insights
 
 My goal is to turn your complex data into clear, impactful dashboards that help you grow your business.
+
 ---
 
 ### 🔗 Contact Me
